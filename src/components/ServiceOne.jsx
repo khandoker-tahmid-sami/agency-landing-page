@@ -8,7 +8,7 @@ const ServiceOne = () => {
       description: "Deliver great service experiences fast - without the complexity of traditional ITSM solutions. Accelerate critical development work, eliminate toil, and deploy changes with ease.",
       bullets: ['Continuous integration and deployment', 'Development workflow','Knowledge management',],
       lastDescription: "Deliver great service experiences fast - without the complexity of traditional ITSM solutions.",
-      imgSrc: "/public/features/feature-1.png",
+      imgSrc: "/features/feature-1.png",
       imgFirst: false,
     },
     {
@@ -16,7 +16,7 @@ const ServiceOne = () => {
       description: "Deliver great service experiences fast - without the complexity of traditional ITSM solutions. Accelerate critical development work, eliminate toil, and deploy changes with ease.",
       bullets: ['Dynamic reports and dashboards','Templates for everyone','Development workflow','Limitless business automation','Knowledge management',],
       lastDescription: "Deliver great service experiences fast - without the complexity of traditional ITSM solutions.",
-      imgSrc: "/public/features/feature-2.png",
+      imgSrc: "/features/feature-2.png",
       imgFirst: true,
     },
   ]

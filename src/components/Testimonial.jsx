@@ -20,7 +20,7 @@ const Testimonial = () => {
           <figcaption class="flex items-center justify-center mt-6 space-x-3">
             <img
               class="w-6 h-6 rounded-full"
-              src="/public/avatar/michael-gouch.png"
+              src="/avatar/michael-gouch.png"
               alt="profile picture"
             />
             <div class="flex items-center divide-x-2 divide-gray-500 dark:divide-gray-700">
