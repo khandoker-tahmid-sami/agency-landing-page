@@ -1,7 +1,7 @@
 import React from "react";
 import FooterData from "./FooterData";
 
-const SubfooterOne = () => {
+const SubFooterOne = () => {
   const footerData = [
     {
       title: "Company",
@@ -33,4 +33,4 @@ const SubfooterOne = () => {
   );
 };
 
-export default SubfooterOne;
+export default SubFooterOne;
